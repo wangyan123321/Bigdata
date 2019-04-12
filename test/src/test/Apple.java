@@ -52,5 +52,5 @@ public class Apple implements Fruite {
 		return "Apple [color=" + color + ", weight=" + weight + ", city=" + city + "]";
 	}
 	//2222
-	//111111
+	//111111222
 }
