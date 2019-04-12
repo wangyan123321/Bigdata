@@ -51,10 +51,4 @@ public class Apple implements Fruite {
 	public String toString() {
 		return "Apple [color=" + color + ", weight=" + weight + ", city=" + city + "]";
 	}
-	
-<<<<<<< HEAD
-	//±¾µØÎÄ¼þ
-=======
-	//æ·»åŠ ä¸ªæµ‹è¯•æ–‡ä»¶
->>>>>>> branch 'master' of https://github.com/wangyan123321/Bigdata.git
 }
