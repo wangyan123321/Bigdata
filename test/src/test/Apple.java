@@ -52,4 +52,5 @@ public class Apple implements Fruite {
 		return "Apple [color=" + color + ", weight=" + weight + ", city=" + city + "]";
 	}
 	
+	//本地文件
 }
