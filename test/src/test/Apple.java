@@ -51,4 +51,5 @@ public class Apple implements Fruite {
 	public String toString() {
 		return "Apple [color=" + color + ", weight=" + weight + ", city=" + city + "]";
 	}
+	//111111
 }
