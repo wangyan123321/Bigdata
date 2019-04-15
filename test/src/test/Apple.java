@@ -54,8 +54,10 @@ public class Apple implements Fruite {
 	//2222
 	//111111222
 	
-	//±¾µØÉÏ´«µÄÊı¾İ
+	//æœ¬åœ°ä¸Šä¼ çš„æ•°æ®
 	//qianduan tianjia xinde shuju
 	
-	//±¾µØ²âÊÔÊı¾İ3
+	//æœ¬åœ°æµ‹è¯•æ•°æ®3
+	
+	//ceshiSHUJU4
 }
