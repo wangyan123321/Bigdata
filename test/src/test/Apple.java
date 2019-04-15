@@ -55,4 +55,5 @@ public class Apple implements Fruite {
 	//111111222
 	
 	//本地上传的数据
+	//qianduan tianjia xinde shuju
 }
