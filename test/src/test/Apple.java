@@ -56,4 +56,6 @@ public class Apple implements Fruite {
 	
 	//本地上传的数据
 	//qianduan tianjia xinde shuju
+	
+	//本地测试数据3
 }
