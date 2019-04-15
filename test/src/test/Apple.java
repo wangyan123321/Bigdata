@@ -53,4 +53,6 @@ public class Apple implements Fruite {
 	}
 	//2222
 	//111111222
+	
+	//本地上传的数据
 }
