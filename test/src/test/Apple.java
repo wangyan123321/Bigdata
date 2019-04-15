@@ -54,10 +54,12 @@ public class Apple implements Fruite {
 	//2222
 	//111111222
 	
-	//本地上传的数据
+	//测试数据2
 	//qianduan tianjia xinde shuju
 	
-	//本地测试数据3
+	//测试数据3
+	
+	//ceshiSHUJU4
 	
 	
 	//本地测试数据5
