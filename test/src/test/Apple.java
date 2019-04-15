@@ -53,4 +53,5 @@ public class Apple implements Fruite {
 	}
 	//2222
 	//111111222
+	//qianduan tianjia xinde shuju
 }
